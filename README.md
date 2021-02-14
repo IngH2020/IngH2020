@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IngH2020
 - 👀 I’m interested in MARCHINE LEARNING
-- 🌱 I’m currently learning Master Systeme Intelligent and Multimedia
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Master 1 & 2 Systeme Intelligent and Multimedia
+- 💞️ I’m looking to collaborate on Deep Learning and Computer Vision
 - 📫 How to reach me: peterson.achille@etudiant.univ-lr.fr
 
 <!---
